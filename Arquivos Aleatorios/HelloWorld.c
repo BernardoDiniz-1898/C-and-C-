@@ -11,8 +11,9 @@ int helloname() {
 
 int main() {
   printf("Hello World!\n\n");
-  printf("Gostaria de se nome printado na tela com um 'Hello World'ao lado?"
-         "(s/n)\n");
+  printf(
+      "Gostaria que seu seja nome printado na tela com um 'Hello World'ao lado?"
+      "(s/n)\n");
   char descisao;
   printf("-> ");
   scanf("%c", &descisao);
@@ -21,6 +22,5 @@ int main() {
     system("clear");
     helloname();
   }
-
   return 0;
 }

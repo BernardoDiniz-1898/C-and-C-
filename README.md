@@ -1,1 +1,1 @@
-# Aprendendo C
+# Aprendendo C e fazendo exercícos

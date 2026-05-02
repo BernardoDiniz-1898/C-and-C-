@@ -14,3 +14,5 @@ int main() {
   printf("O resultado é %ḍ̣̣̣\n", SomaBasica());
   return 0;
 }
+
+float Fibonacci() { return 0; }
